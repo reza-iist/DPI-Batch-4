@@ -1,0 +1,42 @@
+/* Responsive Part Start */
+
+    .header{
+        width: 100%;
+        background:rgb(48, 245, 48);
+        height: 80px;
+    }
+    
+    .logo img{
+        padding: 10px;
+    }
+    .menu ul li a{
+        padding-right: 10px;
+        line-height: 50px;
+    }
+    .menu ul li a:hover{
+        color: white;
+    }
+    
+    /* Slider Part Start */
+    .slider{
+        width: 100%;
+    }
+    .slider h1{
+        
+        top: 30%;
+        left: 16%;
+        font-size: 30px;
+    }
+    .slider p{
+        top: 40%;
+        left: 33%;
+    }
+    .slider a{
+       
+        top: 55%;
+        left: 39%;
+    }
+    /* Slider Part End */
+    /* Responsive Part End */
+    
+    
